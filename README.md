@@ -126,17 +126,4 @@ To deploy this project:
 The Uber New York Data Analysis project provided valuable insights into ride patterns, peak demand periods, and operational efficiencies. The findings can be used to optimize driver allocation, improve customer satisfaction, and enhance surge pricing strategies.
 
 
-## Authors
-
-- [@CoderAdi003](https://github.com/CoderAdi003)
-
-
-## Feedback
-
-Feel free folks to drop any feedbacks you have at adityakumar100aditya@gmail.com
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-b08404226/)
-
 
